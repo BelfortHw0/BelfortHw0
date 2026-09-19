@@ -18,7 +18,7 @@ I am a Software Engineering student interested in backend development, relationa
 
 - **Focus:** Java, SQL/MySQL, object-oriented programming, and web fundamentals
 - **Currently exploring:** cloud and AI concepts
-- **Open to:** internship and junior software development opportunities
+- **Open to:** internship opportunities
 
 ## Tech Stack
 

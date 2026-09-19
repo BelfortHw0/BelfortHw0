@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&lines=Building+clear+and+well-documented+software;Java+%7C+SQL+%7C+Web+Development;Open+to+internship+and+junior+opportunities" alt="Software Engineering student focused on Java, SQL and web development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&lines=Building+clear+and+well-documented+software;Java+%7C+SQL+%7C+Web+Development;Open+to+internship" alt="Software Engineering student focused on Java, SQL and web development" />
 </p>
 
 <p align="center">

@@ -20,6 +20,7 @@ Sou estudante de Engenharia de Software, interessado em transformar fundamentos 
 </p>
 
 > As linguagens são calculadas a partir dos repositórios públicos e indicam volume de código, não nível de domínio.
+
 ## Tecnologias
 
 <p>

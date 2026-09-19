@@ -8,6 +8,8 @@ Sou estudante de Engenharia de Software, interessado em transformar fundamentos 
 -  Desenvolvendo projetos com **Java**, **SQL/MySQL** e tecnologias web
 -  Estudando engenharia de software, cloud e IA
 
+[![Stats](https://github-stats-extended.vercel.app/api?username=belforthw0)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=belforthw0)](https://github.com/stats-organization/github-stats-extended)
 ## Tecnologias
 
 <p>

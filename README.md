@@ -8,8 +8,18 @@ Sou estudante de Engenharia de Software, interessado em transformar fundamentos 
 -  Desenvolvendo projetos com **Java**, **SQL/MySQL** e tecnologias web
 -  Estudando engenharia de software, cloud e IA
 
-[![Stats](https://github-stats-extended.vercel.app/api?username=belforthw0)](https://github.com/stats-organization/github-stats-extended)
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=belforthw0)](https://github.com/stats-organization/github-stats-extended)
+## GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/BelfortHw0">
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=BelfortHw0&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=transparent" alt="Estatísticas do GitHub de Pedro Fabiano Belfort" />
+  </a>
+  <a href="https://github.com/BelfortHw0?tab=repositories">
+    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=BelfortHw0&layout=compact&langs_count=6&hide_border=true&theme=transparent" alt="Linguagens mais usadas nos repositórios de Pedro Fabiano Belfort" />
+  </a>
+</p>
+
+> As linguagens são calculadas a partir dos repositórios públicos e indicam volume de código, não nível de domínio.
 ## Tecnologias
 
 <p>
@@ -23,11 +33,11 @@ Sou estudante de Engenharia de Software, interessado em transformar fundamentos 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Git" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Codex (OpenAI)" height="40" widht="50"
+  <img align="center" alt="Codex (OpenAI)" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex-openai/default.svg"/>  
-  <img align="center" alt="AWS" height="40" widht="50"
+  <img align="center" alt="AWS" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img align="center" alt="C/C++" height="40" widht="50"
+  <img align="center" alt="C/C++" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 </p>
 

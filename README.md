@@ -1,57 +1,59 @@
-# Pedro Fabiano Belfort
+<h1 align="center">Pedro Fabiano Belfort</h1>
 
-### Estudante de Engenharia de Software | Java · SQL · Desenvolvimento Web
+<p align="center">
+  <strong>Software Engineering Student · Java · SQL · Web Development</strong>
+</p>
 
-Sou estudante de Engenharia de Software, interessado em transformar fundamentos de programação, bancos de dados e desenvolvimento web em soluções claras e bem documentadas.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&lines=Building+clear+and+well-documented+software;Java+%7C+SQL+%7C+Web+Development;Open+to+internship+and+junior+opportunities" alt="Software Engineering student focused on Java, SQL and web development" />
+</p>
 
--  Em busca de oportunidades de **estágio** ou **desenvolvimento júnior**
--  Desenvolvendo projetos com **Java**, **SQL/MySQL** e tecnologias web
--  Estudando engenharia de software, cloud e IA
+<p align="center">
+  <a href="mailto:pedrofabianogondim2@gmail.com">Email</a>
+</p>
 
-## GitHub Stats
+## About
+
+I am a Software Engineering student interested in backend development, relational database design, and web development. I build practical, well-documented projects to strengthen my programming and software engineering foundations.
+
+- **Focus:** Java, SQL/MySQL, object-oriented programming, and web fundamentals
+- **Currently exploring:** cloud and AI concepts
+- **Open to:** internship and junior software development opportunities
+
+## Tech Stack
+
+<p align="center">
+  <img alt="Java" title="Java" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="C++" title="C++" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="MySQL" title="MySQL" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="HTML5" title="HTML5" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS3" title="CSS3" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="Git" title="Git" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="GitHub" title="GitHub" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img alt="AWS" title="AWS" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+</p>
+
+## Featured Projects
+
+| Project | Highlights |
+| --- | --- |
+| [SQL SaaS Billing Schema](https://github.com/BelfortHw0/SQL-SaaS-Billing-Schema) | MySQL relational schema for a subscription SaaS platform, featuring queries, views, and data operations. |
+| [Service Scheduling System](https://github.com/BelfortHw0/sistema-agendamento-servicos) | Java object-oriented application for managing clients, services, and appointments. |
+| [Quantix Conceptual Language](https://github.com/BelfortHw0/Linguagem-conceitual-Quantix) | Formal Languages project covering syntax, grammar, regular expressions, automata, and technical documentation. |
+
+## GitHub Activity
 
 <p align="center">
   <a href="https://github.com/BelfortHw0">
-    <img height="165" src="https://github-stats-extended.vercel.app/api?username=BelfortHw0&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=transparent" alt="Estatísticas do GitHub de Pedro Fabiano Belfort" />
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=BelfortHw0&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=transparent" alt="Pedro's GitHub statistics" />
   </a>
   <a href="https://github.com/BelfortHw0?tab=repositories">
-    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=BelfortHw0&layout=compact&langs_count=6&hide_border=true&theme=transparent" alt="Linguagens mais usadas nos repositórios de Pedro Fabiano Belfort" />
+    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=BelfortHw0&layout=compact&langs_count=6&hide_border=true&theme=transparent" alt="Pedro's most used languages" />
   </a>
 </p>
 
-> As linguagens são calculadas a partir dos repositórios públicos e indicam volume de código, não nível de domínio.
+<sub>Language statistics reflect public repository code volume, not proficiency.</sub>
 
-## Tecnologias
+## Contact
 
-<p>
-  <img align="center" alt="Java" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="MySQL" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="HTML" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Git" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Codex (OpenAI)" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex-openai/default.svg"/>  
-  <img align="center" alt="AWS" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img align="center" alt="C/C++" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-</p>
-
-## Projetos em destaque
-
-| Projeto | Descrição |
-| --- | --- |
-| [SQL SaaS Billing Schema](https://github.com/BelfortHw0/SQL-SaaS-Billing-Schema) | Modelagem relacional em MySQL para uma plataforma SaaS de assinaturas, com consultas, views e operações de dados. |
-| [Sistema de Agendamento de Serviços](https://github.com/BelfortHw0/sistema-agendamento-servicos) | Aplicação Java orientada a objetos para gerenciamento de clientes, serviços e agendamentos. |
-| [Linguagem Conceitual Quantix](https://github.com/BelfortHw0/Linguagem-conceitual-Quantix) | Projeto de Linguagens Formais com sintaxe, gramática, expressões regulares, autômatos e documentação técnica. |
-
-## Contato
-
-Conecte-se comigo pelo GitHub para acompanhar meus projetos e minha evolução como desenvolvedor. <br>
-Email pessoal: pedrofabianogondim2@gmail.com <br>
-Email estudantil: pedro.fba.gondim@aluno.uepa.br
+For professional opportunities, reach me at [pedrofabianogondim2@gmail.com](mailto:pedrofabianogondim2@gmail.com).
